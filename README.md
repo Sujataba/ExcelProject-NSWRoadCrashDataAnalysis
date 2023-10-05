@@ -23,20 +23,20 @@ Data cleaning processes are employed to remove duplicates, handle missing values
 #### Conditional Formatting for Visualization:
 
 - Conditional formatting in Excel is employed to visually highlight patterns and anomalies in the data.
-- Maps and tables are formatted to draw attention to areas with a high incidence of accidents, facilitating a better understanding of accident hotspots.
+- Attention is drawn to areas with a high incidence of accidents, facilitating a better understanding of accident hotspots.
 #### Excel Calculations and Functions:
 
 - Various Excel calculations and functions are applied to derive additional insights. For instance:
-- Calculations may be used to determine accident rates in different suburbs.
-- Functions like IF and SUMIFS can help analyze accident severity based on weather conditions.
+- Calculations helped to determine accident rates in different suburbs.
+
 #### Correlation Analysis:
 
 - Excel is utilized to perform correlation analysis to identify relationships between factors such as road condition, weather condition, and accident severity.
-- Scatter plots and trendlines may be used to visualize these relationships.
+- Bar plots and heatmaps may be used to visualize these relationships.
 #### Insights and Recommendations:
 
 - The project concludes by presenting insights into the most significant factors contributing to road crashes in NSW.
-- Actionable recommendations are provided, including potential safety measures, infrastructure improvements, and targeted awareness campaigns.
+
 #### Data Visualization:
 
 - Excel charts and graphs are employed to visually represent the findings, making complex data more accessible to stakeholders and decision-makers.
