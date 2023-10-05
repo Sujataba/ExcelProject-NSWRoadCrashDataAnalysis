@@ -19,7 +19,7 @@ Data cleaning processes are employed to remove duplicates, handle missing values
 #### Pivot Tables for Summary Analysis:
 
 - Excel Pivot tables are utilized to summarize and aggregate the data, allowing for a quick overview of key statistics.
-- Pivot tables are created to analyze accident trends over the last five years, breaking down the data by year, month, and location.
+- Pivot tables are created to analyze accident trends over the last five years, breaking down the data by year, month, weekday and day time.
 #### Conditional Formatting for Visualization:
 
 - Conditional formatting in Excel is employed to visually highlight patterns and anomalies in the data.
@@ -27,7 +27,7 @@ Data cleaning processes are employed to remove duplicates, handle missing values
 #### Excel Calculations and Functions:
 
 - Various Excel calculations and functions are applied to derive additional insights. For instance:
-- Calculations may be used to determine accident rates per 100,000 residents in different suburbs.
+- Calculations may be used to determine accident rates in different suburbs.
 - Functions like IF and SUMIFS can help analyze accident severity based on weather conditions.
 #### Correlation Analysis:
 
